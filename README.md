@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- Duydev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/duydev.svg" width="1200" alt="Ngọc Duy />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
