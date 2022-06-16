@@ -34,7 +34,7 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">Folow me</h2>
 <br>
                   <div align="center">           
   <a href="https://facebook.com/ngocduy2506" target="blank">
